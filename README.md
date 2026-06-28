@@ -98,11 +98,13 @@ global-food-price-analysis/
 │
 ├── data/
 │   └── wfp_market_food_prices.xlsx    # WFP dataset (download from Kaggle)
+├── Presentation/
+│   └── global food price analysis.ppt
 │
 ├── Analysis_of_Global_food_price.ipynb # Main analysis notebook
 │
 ├── README.md                           # You are here!
-└── requirements.txt                    # Python dependencies
+└── LICENSE                    #License
 ```
 
 ---
